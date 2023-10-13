@@ -6,7 +6,7 @@ The exercises presented are related to resources and motivated to be carried out
 
 In this section, the exercises will be presented divided into levels, for the participant to better understand which level they are at.
 
-#####Levels:
+###Levels:
 * Beginner
 * Basic
 * Intermediate
